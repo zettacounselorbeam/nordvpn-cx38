@@ -1,4 +1,4 @@
-
+automatic NordVPN Plugin | port-forwarding + obfuscation offers the most advanced NordVPN plugin, with port-forwarding and obfuscation. Ideal for users who value privacy and
 
 
 
